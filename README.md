@@ -32,17 +32,17 @@
 
 ### 🔧 Technologies & Tools
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
-![YOLO](https://img.shields.io/badge/-YOLO-000000?style=flat&logo=github)
-![EasyOCR](https://img.shields.io/badge/-EasyOCR-222222?style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
-![Colab](https://img.shields.io/badge/-Colab-F9AB00?style=flat&logo=googlecolab)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![YOLO](https://img.shields.io/badge/-YOLO-000000?style=flat&logo=github&logoColor=white)
+![EasyOCR](https://img.shields.io/badge/-EasyOCR-444444?style=flat&logo=readme&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=white)
+![Colab](https://img.shields.io/badge/-Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
 
 ---
 
