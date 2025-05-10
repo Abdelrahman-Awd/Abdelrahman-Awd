@@ -43,6 +43,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=white)
 ![Colab](https://img.shields.io/badge/-Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ---
 
