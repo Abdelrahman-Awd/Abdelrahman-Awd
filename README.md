@@ -58,8 +58,8 @@
 ### 🚀 Featured Projects
 
 - 🔲 **[Real-Time Face Anonymizer](https://github.com/Abdelrahman-Awd/face-anonymizer)** – Mask faces in images, videos, or webcam streams using OpenCV and MediaPipe.
-- 🔍 **[UK License Plate Detector](https://github.com/Abdelrahman-Awd/license-plate-detector)** – Detect and track license plates with YOLOv5, EasyOCR, and SORT.
-- ✅ **[Upwork VA Portfolio](https://github.com/Abdelrahman-Awd/va-portfolio)** – Showcasing inbox automation, SOPs, and CRM work.
+- 🔍 **[UK License Plate Detector](https://github.com/Abdelrahman-Awd/UK-License-Plate-Recognition)** – Detect and track license plates with YOLOv5, EasyOCR, and SORT.
+
 
 ---
 
